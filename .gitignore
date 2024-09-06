@@ -1,6 +1,0 @@
-# Ignorar archivos y directorios de entorno virtual de Python
-venv/
-
-# Ignorar carpetas específicas
-/Datasets
-/reviews-estados
