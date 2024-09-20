@@ -195,6 +195,32 @@ Después de realizar el proceso de Extracción, Transformación y Carga de datos
 ![Porcentaje de Nulos Google maps ](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09/blob/Felipe/Imagenes/9A.png)
 
 ![Porcentaje de Nulos Google maps ](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09/blob/Felipe/Imagenes/7A.png)
+
+## **Modelo Machine Learning**
+
+
+![Red Neuronal](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09/blob/main/Img/Red%20Neuronal.png)
+
+Las reseñas ofrecen información valiosa al proporcionar opiniones directas de los clientes sobre diversos aspectos del negocio, lo que facilita la obtención de conocimientos clave para mejorar los servicios y tomar decisiones estratégicas. 
+El objetivo principal del proyecto de Machine Learning es extraer información valiosa de las reseñas de clientes para China Garden, centradas en las siguientes categorías: comida, servicio, precio y ubicación. Dado el elevado volumen de comentarios, realizar este análisis de forma manual sería un proceso ineficiente y laborioso. Para enfrentar este desafío, se etiquetarán manualmente un conjunto representativo de reseñas que cubran las diferentes categorías, las cuales servirán como base para entrenar un modelo de reconocimiento de entidades mediante la biblioteca spaCy basado en redes neuronales profundas o deep learning.
+Una vez identificadas las categorías, se realizará un análisis de sentimiento para cada categoría con la herramienta VADER. Además, spaCy se utilizará para extraer los adjetivos y adverbios asociados a las distintas etiquetas, con el objetivo de evaluar el nivel de satisfacción de los clientes en cada categoría y proporcionar una interpretación lingüística que refleje su percepción general.
+
+Para desarrollar el proyecto se seguirán las siguientes etapas:
+
+Preprocesamiento: Adquisición de datos y limpieza del texto, adaptando el mismo al formato necesario para el entrenamiento del modelo.
+Ingeniería de características (Feature engineering): Extracción de las características clave mediante el entrenamiento de un modelo de Machine Learning.
+Evaluación del modelo: Evaluación del rendimiento utilizando métricas adecuadas para asegurar su precisión.
+Análisis de sentimientos: Evaluación del sentimiento asociado a cada categoría, con especial énfasis en la identificación de adjetivos y adverbios que describen cada aspecto.
+Despliegue (Deployment): Implementación del modelo para su uso en producción, garantizando su funcionamiento en un entorno real.
+
+## **Diccionario de datos y Diagrama Entidad Relacion**
+
+Este PDF contiene tanto el diagrama entidad-relación (E-R) como el diccionario de datos para un proyecto que analiza restaurantes chinos registrados en Google Maps. El diagrama E-R ofrece una representación visual de cómo se estructuran y relacionan dos entidades clave: metadata (información de los restaurantes) y reviews (reseñas de los usuarios). El diccionario de datos proporciona una descripción detallada de los atributos en estas tablas, como las calificaciones, ubicaciones y comentarios de los usuarios, permitiendo un análisis profundo del rendimiento y popularidad de los restaurantes.
+
+Con este documento, podrás comprender las relaciones entre los datos procesados y limpios tras la fase de ETL, lo que te permitirá realizar análisis cruzados y tendencias basadas en reseñas y ubicaciones. ¡Haz clic en el enlace para ver el documento completo!
+
+[Ver Diccionario de datos y Diagrama Entidad Relacion](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09/blob/main/Img/ER_diccionario.pdf)
+
 ## **Herramientas Utilizadas**
 
 1. Visual Studio Code ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
