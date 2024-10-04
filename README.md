@@ -3,6 +3,15 @@
 
 # **Expansión de Cadena de Restaurantes China Garden en la Costa Este de EE.UU**
 
+### Ver presentacion Power BI
+
+[Dashboard de Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTAwMDkyYWEtNmFlYi00NzM3LWE1MWQtNmFmZmM1ZDE0MTExIiwidCI6Ijc5ODcxZWIxLTYwOTYtNDJiZi05OGVmLWI0ZjNlNGVmODMxOCIsImMiOjR9)
+
+
+### Ver modelo de machine learning ML
+
+[Dashboard de Power BI](https://modelo-de-machine-learning-hpwdaylpzk6w3rldcymsxy.streamlit.app)
+
 ## **Introducción**
 
 En el dinámico mercado de restaurantes de Estados Unidos, las opiniones de los usuarios se han convertido en un activo invaluable para la toma de decisiones estratégicas. Plataformas como Yelp y Google Maps han transformado la forma en que los consumidores comparten sus experiencias y cómo las empresas perciben su posición en el mercado. En este contexto, nuestra consultora de datos ha sido contratada para realizar un análisis exhaustivo del mercado de la costa este de los Estados Unidos, con un enfoque particular en la expansión de una cadena de restaurantes de comida china China Garden en esta zona del país.
@@ -48,15 +57,14 @@ Aunque el cambio porcentual de este KPI a lo largo del tiempo no garantiza una r
 
 Además, el análisis temporal de este KPI permite identificar momentos específicos en los que se producen cambios significativos en la tendencia. Esto facilita la revisión de las medidas o acciones implementadas durante esos periodos, permitiendo reconocer prácticas valiosas para la retención y el crecimiento de la clientela.
 
-3. **Índice de competitividad local**
+3. **Crecimiento en cantidad de locales**
 
    
 Cálculo: 
 
-![IMAGEN KPI 3](https://github.com/psm545/Google-and-Yelp-Recomendaciones-PF-Henry-PT-09/blob/main/Img/Captura%20de%20pantalla%202024-09-02%20a%20la(s)%207.25.20%E2%80%AFp.%C2%A0m..jpg)
 
-Evaluar la competitividad del restaurante por áreas es crucial para nuestro cliente. Un valor alto en este KPI indicaría que el restaurante es percibido por los clientes como superior en calidad respecto a sus competidores cercanos, mientras que un valor bajo sugeriría que el negocio se encuentra por debajo del estándar local, abriendo la oportunidad para áreas de mejora en la calidad del servicio, la comida o la experiencia general. Además, esta comparación nos permite identificar los restaurantes con las mejores prácticas en una zona determinada, información vital que permitirá observar cuáles son las acciones implementadas por la competencia que funcionan con el público local y de esta manera adaptarlas en la línea de negocio del cliente.
 
+Evaluar la competitividad del restaurante por áreas es crucial para nuestro cliente. por eso evalua el crecimineto en cantidad de locales por año en la costa este. 
 
  
 ## **Métricas Esperadas**
