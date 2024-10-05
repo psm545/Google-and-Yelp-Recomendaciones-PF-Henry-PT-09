@@ -10,7 +10,7 @@
 
 ### Ver modelo de machine learning ML
 
-[Dashboard de Power BI](https://modelo-de-machine-learning-hpwdaylpzk6w3rldcymsxy.streamlit.app)
+[Modelo ML](https://modelo-de-machine-learning-hpwdaylpzk6w3rldcymsxy.streamlit.app)
 
 ## **Introducción**
 
